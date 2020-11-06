@@ -1,7 +1,8 @@
 <p align="center">
   <img src="img/MaiweiAI-logo.jpg" alt="MaiweiAI-logo" width="640px"/><br>
-  <a href="https://charmve.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/Blog-Charmve-blue" alt="css"></a>
+
   <a href="https://github.com/MaiweiAI"><img src="https://img.shields.io/badge/Github-Maiwei%20AI%20Lab-blue" alt="github"></a>
+  <a href="https://charmve.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/Blog-Charmve-blue" alt="blog"></a>
   <a href="https://github.com/Charmve" target="_blank"><img src="https://www.geekxh.com/trending.svg?label=html" alt="html"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
