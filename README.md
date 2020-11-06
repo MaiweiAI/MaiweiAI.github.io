@@ -13,32 +13,32 @@
 https://github.com/Charmve/PyTorchingThePaper
 
 # Research Experience
+
+
 <table>
 <tr>   
-	<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
-	<td><center><img width="260" src="https://github.com/Charmve/Surface-Defect-Detection/raw/master/metal_surface.png" alt="Surface Defect Detection"></center></td>
-	<td>
-		<font size="4">
+	<font size="3"><b>1.</b></font>&nbsp;&nbsp;
+	<font size="4">
                     <b>   Surface Defect Detection: Paper & Dataset</b>
-		</font>	    
-		<font size="3">
-		<br>
-		<br>Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important.
-		<br><br> NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
-                <ul class="list-inline">
-                <a class="github-button"
-                      href="https://github.com/Charmve/Surface-Defect-Detection"
-                      data-icon="octicon-star" data-show-count="true"
-                      aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
-                 <a class="github-button"
-                      href="https://github.com/Charmve/Surface-Defect-Detection/fork"
-                      data-icon="octicon-repo-forked" data-show-count="true"
-                      aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
-                 </ul>
-		 <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
-			<a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
-		 <br><br>
-	</td>
+	</font>
+	<center><img width="260" src="https://github.com/Charmve/Surface-Defect-Detection/raw/master/metal_surface.png" alt="Surface Defect Detection"></center>	    
+	<font size="3">
+	<br>
+	<br>Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important.
+	<br><br> NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
+        <ul class="list-inline">
+        <a class="github-button"
+              href="https://github.com/Charmve/Surface-Defect-Detection"
+              data-icon="octicon-star" data-show-count="true"
+              aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
+         <a class="github-button"
+              href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+              data-icon="octicon-repo-forked" data-show-count="true"
+              aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+         </ul>
+	 <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+		<a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
+	 <br><br>
 </tr>
 <tr>   
 	<td><font size="3"><b>2.</b></font></td>&nbsp;&nbsp;
