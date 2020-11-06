@@ -15,7 +15,7 @@ https://github.com/Charmve/PyTorchingThePaper
 	<table>
         <tr>   
 		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="https://github.com/Charmve/Surface-Defect-Detection/tree/main/img/surface_dataset.png" alt="Surface Defect Detection"></center></td>
+		<td><center><img width="260" src="https://github.com/Charmve/Surface-Defect-Detection/raw/master/metal_surface.png" alt="Surface Defect Detection"></center></td>
 		<td>
 			<font size="4">
                             <b>   Surface Defect Detection: Paper & Dataset</b>
@@ -41,7 +41,7 @@ https://github.com/Charmve/PyTorchingThePaper
 	</tr>
 	<tr>   
 		<td><font size="3"><b>2.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="https://github.com/Charmve/Mirror-Glass-Detection/tree/main/img/glrass_detection.jpg" alt="GlassDetection"></center></td>
+		<td><center><img width="260" src="https://github.com/Charmve/Mirror-Glass-Detection/raw/master/MirrorGlassDetection_files/image002.jpg" alt="GlassDetection"></center></td>
 		<td>
 			<font size="4">
 			    <b>  Mirror & Glass Detection in Real-world Scenes </b>
@@ -71,7 +71,7 @@ https://github.com/Charmve/PyTorchingThePaper
 	</tr>
 	<tr>   
 		<td><font size="3"><b>3.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="https://github.com/Charmve/SNE-RoadSeg2/tree/main/img/sne-roadseg.png" alt="SNE-RoadSeg2"></center></td>
+		<td><center><img width="260" src="https://github.com/Charmve/SNE-RoadSeg2/raw/master/doc/kitti.gif" alt="SNE-RoadSeg2"></center></td>
 		<td>
 			<font size="4">
 			    <b>   SNE-RoadSeg2: Accurate Freespace Detection</b>
@@ -98,7 +98,7 @@ https://github.com/Charmve/PyTorchingThePaper
 	</tr>
 	<tr>   
 		<td><font size="3"><b>4.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/main/img/Menu-MaiweiAI.jpg" alt="PaperWeekly"></center></td>
+		<td><center><img width="260" src="https://github.com/ChromeWei/PaperWeeklyAI/raw/master/Menu-MaiweiAI.jpg" alt="PaperWeekly"></center></td>
 		<td>
 			<font size="4">
 				<b>   PaperWeeklyAI</b>
@@ -153,7 +153,7 @@ https://github.com/Charmve/PyTorchingThePaper
 	</tr>
 	<tr>   
 		<td><font size="3"><b>6.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="https://github.com/Charmve/BLE-Security-Attack-Defence/tree/main/img/profile.jpg" alt="BleSec"></center></td>
+		<td><center><img width="260" src="https://github.com/Charmve/BLE-Security-Attack-Defence/blob/master/profile.jpg" alt="BleSec"></center></td>
 		<td>
 			<font size="4">
 			    <b>   Bluetooth LE-Security: Method, Tools and Stack</b>
