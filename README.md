@@ -23,7 +23,7 @@ https://github.com/Charmve/PyTorchingThePaper
 <font size="2">
 <br>
 Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important.
-NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
+NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.<br>
 <p align="left"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
 </p>
 <br><br>
