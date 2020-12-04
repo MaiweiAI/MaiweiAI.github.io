@@ -78,8 +78,13 @@ and am developing computational models for automatic detection and segmentation 
 <h6 class="small font-weight-bold mb-2">SUBSCRIBE</h6>
 <hr class="sub-separator" />
 <p class="text-muted">Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
-<div class="form-group"><form id="mc-embedded-subscribe-form" class="validate" action="https://argenox.us10.list-manage.com/subscribe/post?u=b1790df21b1b549a3583d673b&amp;id=d375d03d2d" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div class="form-group"><input id="mce-EMAIL" class="form-control rounded-0 subscribe-email-inp" name="EMAIL" type="text" placeholder="Enter your email address" /></div>
-</form><br /><button class="btn btn-light btn-block rounded-0" type="button">Subscribe</button></div>
-</div>
+<div class="form-group">
+  <form id="mc-embedded-subscribe-form" class="validate" action="https://argenox.us10.list-manage.com/subscribe/post?u=b1790df21b1b549a3583d673b&amp;id=d375d03d2d" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+  <div class="form-group">
+    <input id="mce-EMAIL" class="form-control rounded-0 subscribe-email-inp" name="EMAIL" type="text" placeholder="Enter your email address" />
+   </div>
+  </form>
+  <br><button class="btn btn-light btn-block rounded-0" type="button">Subscribe</button>
+ </div>
+  </div>
 </div>
