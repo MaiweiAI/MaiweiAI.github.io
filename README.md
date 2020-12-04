@@ -84,7 +84,7 @@ and am developing computational models for automatic detection and segmentation 
     <input id="mce-EMAIL" class="form-control rounded-0 subscribe-email-inp" name="EMAIL" type="text" placeholder="Enter your email address" />
    </div>
   </form>
-  <br><button class="btn btn-light btn-block rounded-0" type="button">Subscribe</button>
+  <br><button class="btn btn-light btn-block rounded-0" type="button"><a href="https://MaiweiAI.github.io/subscribe.html" target="_blank">Subscribe</a></button>
  </div>
   </div>
 </div>
