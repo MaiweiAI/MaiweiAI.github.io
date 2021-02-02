@@ -8,10 +8,6 @@
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
 
-
-# PyTorching the Papers
-https://github.com/Charmve/PyTorchingThePaper
-
 # Research Experience
 
 ## Surface Defect Detection: Paper & Dataset
