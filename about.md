@@ -44,8 +44,8 @@ permalink: /about/
     <table align="center">
         <tbody>
         <tr>
-            <td> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Charmve&show_icons=true&theme=highcontrast" /> </td>
-            <td> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" /> </td>
+            <td align="right"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Charmve&show_icons=true&theme=highcontrast" /> </td>
+            <td align="left"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" /> </td>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="Charmve" />
         </tr>
     </tbody>
