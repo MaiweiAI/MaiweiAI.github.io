@@ -64,10 +64,11 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 005060d4548045e08783
-  clientSecret: 0330b2496bb0e562631d6516ddaf9d0f47e0862f
-  repo: https://maiweiai.github.io/
+  clientID: e754ee30920c82327e89
+  clientSecret: ca5c1f08bf2a3aafd7a14ed2f8fabee44101fd09
+  repo: maiweiai.github.io
   owner: maiweiai
+  admin: ['maiweiai', 'Charmve']
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics:
@@ -114,8 +115,6 @@ plugins:
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
