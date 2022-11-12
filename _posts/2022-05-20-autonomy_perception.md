@@ -9,10 +9,12 @@ toc: true
 ---
 
 <p align="left">
-  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-@Charmve-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a> <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" ><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&amp;logo=WeChat" alt="微信公众号"/></a> <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" ><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@Charmve-000000.svg?style=flat-square&amp;logo=Zhihu" alt="知乎"/></a> <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/B站-@Charmve-000000.svg?style=flat-square&amp;logo=Bilibili" alt="B站"/></a> <a href="https://blog.csdn.net/Charmve" target="_blank"><img src="https://img.shields.io/badge/CSDN-@Charmve-000000.svg?style=flat-square&amp;logo=CSDN" alt="CSDN"/></a>
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-@Charmve-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a> 
+  <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" ><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&amp;logo=WeChat" alt="微信公众号"/></a> 
+  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" ><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@Charmve-000000.svg?style=flat-square&amp;logo=Zhihu" alt="知乎"/></a> 
+  <a href="https://space.bilibili.com/62079686" target="_blank"><img src="https://img.shields.io/badge/B站-@Charmve-000000.svg?style=flat-square&amp;logo=Bilibili" alt="B站"/></a> 
+  <a href="https://blog.csdn.net/Charmve" target="_blank"><img src="https://img.shields.io/badge/CSDN-@Charmve-000000.svg?style=flat-square&amp;logo=CSDN" alt="CSDN"/></a>
 </p>
-
-<br>
 
 ><font size = 4>导言</font>
 >自动驾驶太火？高薪？跃跃欲试，又仅存于想的阶段。动起来，只是看理论，却总也学不会？看不懂，又总没有进度？如果你也有这类问题，那你来看看这个专栏。以实际项目为导向，亲自动手实践，从简单的图像分类、目标检测开始，逐渐学习掌握实例分割、目标检测、车道线检测等进阶技能。学习有回馈、有成就感，你才能继续下去。转行？你就得看看这个。
@@ -21,10 +23,19 @@ toc: true
 
 <br>
 
-# 专栏大纲
+# 专栏订阅
 
+<p align="center">
+  <a href="https://blog.csdn.net/charmve/category_12097938.html">
+    <img src="https://user-images.githubusercontent.com/29084184/201481991-bfc30f6e-7d2b-49aa-9ae6-1022162cf153.png" />
+  </a>
+  <a href="https://blog.csdn.net/charmve/category_12097938.html">点击学习 💯</a>
+</p>
+
+# 专栏大纲
 ## 零、感知系统整体概述 （5%）
-（框图）
+
+<img width="1593" alt="image" src="https://user-images.githubusercontent.com/29084184/201470301-b7fc5110-b910-47ba-b87c-fd55d4af918f.png">
 
 1. 在自动驾驶系统中的位置，上下游
 2. 解决什么问题
@@ -133,3 +144,11 @@ BEV 基于图像/Lidar/多模态数据的3D检测与分割任务
 3. 动手实现车道线检测、目标识别、可通行区域检测等算法，源代码实现；
 3. 对当前自动驾驶行业有更深的了解，抛砖引玉开展相关工作；
 4. 了解几种经典的感知算法模型，从实现原理到模型产出；
+
+
+<p align="center">
+  <a href="https://blog.csdn.net/charmve/category_12097938.html">
+    <img src="https://user-images.githubusercontent.com/29084184/201481991-bfc30f6e-7d2b-49aa-9ae6-1022162cf153.png" />
+  </a>
+  <a href="https://blog.csdn.net/charmve/category_12097938.html">点击学习 💯</a>
+</p>

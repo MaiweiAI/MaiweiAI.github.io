@@ -24,14 +24,12 @@ permalink: /about/
 <h2></h2>
 <div align="center">
     <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,linux,powershell,vim,ros,latex,md,arduino,raspberrypi&theme=light" />
-    </a>
-    </p>
-    <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,vscode,visualstudio,qt,eclipse,androidstudio,blender,autocad,ps&theme=dark" />
-    </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,linux,powershell,vim,ros,latex,md,arduino,raspberrypi&theme=light" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,vscode,visualstudio,qt,eclipse,androidstudio,blender,autocad,ps&theme=dark" />
+        </a>
     </p>
     <h2 align="center">Skills</h2>
     <p align="center"> 
@@ -43,17 +41,16 @@ permalink: /about/
 <details close="true">
   <summary><b>⚙️ &nbsp;Git statistics</b></summary>
   <div align="center">
-    <table>
-    <tbody>
-    <tr>
-        <td> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Charmve&show_icons=true&theme=highcontrast" /> </td>
-        <td> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" /> </td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="Charmve" />
-    </tr>
-  </tbody>
+    <table align="center">
+        <tbody>
+        <tr>
+            <td> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Charmve&show_icons=true&theme=highcontrast" /> </td>
+            <td> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" /> </td>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="Charmve" />
+        </tr>
+    </tbody>
   </table>
-   
- </div>
+  </div>
 </details>
  
 <div align="center">

@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "Maiwei.ai"
 # Short bio or description (displayed in the header)
-description: "Machine Learning, Computer Vision, Deep Learning <br> <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png">微信公众号：迈微AI研习社</a>"
+description: "Machine Learning, Computer Vision, Deep Learning <br> <a href='https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png'>微信公众号：迈微AI研习社</a>"
 
 #
 # Flags below are optional
