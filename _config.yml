@@ -65,10 +65,9 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   clientID: e754ee30920c82327e89
-  clientSecret: ca5c1f08bf2a3aafd7a14ed2f8fabee44101fd09
+  clientSecret: ec76f91c8db4c995dec74f261465b74f8628159b
   repo: maiweiai.github.io
-  owner: maiweiai
-  admin: ['maiweiai', 'Charmve']
+  owner: MaiweiAI
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics:
