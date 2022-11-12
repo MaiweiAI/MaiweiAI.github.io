@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "Maiwei.ai"
 # Short bio or description (displayed in the header)
-description: "Machine Learning, Computer Vision, Deep Learning 公众号：迈微AI研习社"
+description: "Machine Learning, Computer Vision, Deep Learning <br> 公众号：迈微AI研习社"
 
 #
 # Flags below are optional
@@ -46,7 +46,7 @@ footer-links:
   flickr:
   github: Charmve
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram: charmve_
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
